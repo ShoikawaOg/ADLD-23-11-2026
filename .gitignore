@@ -1,0 +1,12 @@
+# simulation outputs
+*.vcd
+*.vvp
+*.out
+sim
+a.out
+obj_dir/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
